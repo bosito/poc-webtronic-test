@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-reactwebtronicpoc-dev-180154-authRole",
+      "UnauthRoleArn": "arn:aws:iam::084373791011:role/amplify-reactwebtronicpoc-dev-180154-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::084373791011:role/amplify-reactwebtronicpoc-dev-180154-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-reactwebtronicpoc-dev-180154-deployment",
+      "UnauthRoleName": "amplify-reactwebtronicpoc-dev-180154-unauthRole",
+      "StackName": "amplify-reactwebtronicpoc-dev-180154",
+      "StackId": "arn:aws:cloudformation:us-east-1:084373791011:stack/amplify-reactwebtronicpoc-dev-180154/17739420-a5a9-11ed-9663-12b127c8f26d",
+      "AmplifyAppId": "d38gtosd8lp9mn"
+    },
+    "categories": {
+      "api": {
+        "reactwebtronicpoc": {}
+      }
+    }
+  }
+}
